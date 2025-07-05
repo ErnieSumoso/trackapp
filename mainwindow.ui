@@ -19,9 +19,6 @@
      <widget class="QLineEdit" name="lineEdit"/>
     </item>
     <item>
-     <widget class="QLineEdit" name="lineEdit_2"/>
-    </item>
-    <item>
      <widget class="QPushButton" name="pushButton">
       <property name="text">
        <string>Test</string>
