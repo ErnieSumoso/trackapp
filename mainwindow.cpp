@@ -16,7 +16,6 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_pushButton_clicked()
 {
-    QString text = QString("Hello " + ui->lineEdit->text());
-    QMessageBox::information(this, "Hello", text);
+    QMessageBox::information(this, "Hello", QString("Hello " + ui->lineEdit->text()));
 }
 
