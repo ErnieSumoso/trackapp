@@ -1,2 +1,2 @@
-# General purpose activity tracker application #
+# General purpose progress track application #
 -- Update in progress --
